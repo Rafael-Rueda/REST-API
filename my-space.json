@@ -3,25 +3,29 @@
     {
         "id":1,
         "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798631457787974/Rectangle_6_9.png",
-        "tipo": "estrela"
+        "tipo": "estrela",
+        "popular": true
     },
 
     {
         "id":2,
         "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798631722041455/Rectangle_6.png",
-        "tipo": "galaxia"
+        "tipo": "galaxia",
+        "popular": true
     },
 
     {
         "id":3,
         "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798632015630527/Rectangle_6_1.png",
-        "tipo": "nebulosa"
+        "tipo": "nebulosa",
+        "popular": true
     },
 
     {
         "id":4,
         "img": "https://cdn.discordapp.com/attachments/769287623621214220/1070798632288272414/Rectangle_6_2.png",
-        "tipo": "estrela"
+        "tipo": "estrela",
+        "popular": true
     },
     {
         "id":5,
